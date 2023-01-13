@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Text Hover Animation with Anime.js | Crimson
+# Product Landing Page with Gsap | Crimson
 
 <img src="admin/base.png">
 
